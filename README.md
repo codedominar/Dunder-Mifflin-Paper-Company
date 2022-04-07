@@ -48,19 +48,19 @@ Implementation
 ---Users List---
 
 <p align="center">
-  <img src="pics/users.png" alt="Drawing" style="width: 500px;"/>
+  <img src="pics/users.PNG" alt="Drawing" style="width: 500px;"/>
 </p>
 
 ---New User---
 
 <p align="center">
-  <img src="pics/new_user.png" alt="Drawing" style="width: 500px;"/>
+  <img src="pics/new_user.PNG" alt="Drawing" style="width: 500px;"/>
 </p>
 
 --- Grant_user_permission---
 
 <p align="center">
-  <img src="pics/grant_user_permission.png" alt="Drawing" style="width: 500px;"/>
+  <img src="pics/grant_user_permission.PNG" alt="Drawing" style="width: 500px;"/>
 </p>
 
 
