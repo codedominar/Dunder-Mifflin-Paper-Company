@@ -42,7 +42,7 @@ Implementation
 ---Login Page--
 
 <p align="center">
-  <img src="pics/login_page.png" alt="Drawing" style="width: 500px;"/>
+  <img src="pics/login_page.PNG" alt="Drawing" style="width: 500px;"/>
 </p>
 
 ---Users List---
