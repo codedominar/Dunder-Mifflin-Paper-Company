@@ -4,7 +4,7 @@
 Folder structure
 ===================
 
-.
+```
 +-- news_paper
 |   +-- __pycache__
 |   +-- __init__.py
